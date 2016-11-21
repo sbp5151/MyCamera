@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Camera</string>
+    <string name="code_size_outof">SD卡内存不足</string>
+    <string name="code_exception">SD卡异常</string>
+    <string name="win">拍照成功</string>
+    <string name="TimeOutHint">录制时间太长，系统自动停止录制</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
